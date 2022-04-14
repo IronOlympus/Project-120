@@ -1,0 +1,16 @@
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+canvas{
+    text-align: center;
+    border-radius:10px;
+}
+#status{
+    font-family: 'Open Sans', sans-serif;
+    color:red; 
+}
+button{
+    background-color: beige;
+    font-family: 'Open Sans', sans-serif;
+
+}
